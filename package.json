@@ -2,7 +2,7 @@
   "name": "todoapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://praveena1809.github.io/TODO-App",
+  "homepage": "https://praveena1809.github.io/TODO-demo",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
