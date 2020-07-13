@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/todoapp/static/css/main.66468b4e.chunk.css",
-    "main.js": "/todoapp/static/js/main.b5f52ccf.chunk.js",
-    "main.js.map": "/todoapp/static/js/main.b5f52ccf.chunk.js.map",
-    "runtime-main.js": "/todoapp/static/js/runtime-main.5545d9fc.js",
-    "runtime-main.js.map": "/todoapp/static/js/runtime-main.5545d9fc.js.map",
-    "static/js/2.fedf2b09.chunk.js": "/todoapp/static/js/2.fedf2b09.chunk.js",
-    "static/js/2.fedf2b09.chunk.js.map": "/todoapp/static/js/2.fedf2b09.chunk.js.map",
-    "index.html": "/todoapp/index.html",
-    "precache-manifest.cd7d6019a9d78750540bde5b288df7b7.js": "/todoapp/precache-manifest.cd7d6019a9d78750540bde5b288df7b7.js",
-    "service-worker.js": "/todoapp/service-worker.js",
-    "static/css/main.66468b4e.chunk.css.map": "/todoapp/static/css/main.66468b4e.chunk.css.map",
-    "static/js/2.fedf2b09.chunk.js.LICENSE.txt": "/todoapp/static/js/2.fedf2b09.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/todoapp/static/media/logo.5d5d9eef.svg"
+    "main.css": "/TODO-App/static/css/main.66468b4e.chunk.css",
+    "main.js": "/TODO-App/static/js/main.8c14f769.chunk.js",
+    "main.js.map": "/TODO-App/static/js/main.8c14f769.chunk.js.map",
+    "runtime-main.js": "/TODO-App/static/js/runtime-main.44122a4f.js",
+    "runtime-main.js.map": "/TODO-App/static/js/runtime-main.44122a4f.js.map",
+    "static/js/2.fedf2b09.chunk.js": "/TODO-App/static/js/2.fedf2b09.chunk.js",
+    "static/js/2.fedf2b09.chunk.js.map": "/TODO-App/static/js/2.fedf2b09.chunk.js.map",
+    "index.html": "/TODO-App/index.html",
+    "precache-manifest.19712b7e697018b49a158e5e643e1b5c.js": "/TODO-App/precache-manifest.19712b7e697018b49a158e5e643e1b5c.js",
+    "service-worker.js": "/TODO-App/service-worker.js",
+    "static/css/main.66468b4e.chunk.css.map": "/TODO-App/static/css/main.66468b4e.chunk.css.map",
+    "static/js/2.fedf2b09.chunk.js.LICENSE.txt": "/TODO-App/static/js/2.fedf2b09.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TODO-App/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5545d9fc.js",
+    "static/js/runtime-main.44122a4f.js",
     "static/js/2.fedf2b09.chunk.js",
     "static/css/main.66468b4e.chunk.css",
-    "static/js/main.b5f52ccf.chunk.js"
+    "static/js/main.8c14f769.chunk.js"
   ]
 }
